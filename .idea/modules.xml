@@ -3,6 +3,8 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/Test1.iml" filepath="$PROJECT_DIR$/Test1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/dubbo.consumer/dubbo.impl.iml" filepath="$PROJECT_DIR$/dubbo.consumer/dubbo.impl.iml" />
+      <module fileurl="file://$PROJECT_DIR$/dubbo.interface/dubbo.interface.iml" filepath="$PROJECT_DIR$/dubbo.interface/dubbo.interface.iml" />
       <module fileurl="file://$PROJECT_DIR$/dubbo.provider/dubbo.provider.iml" filepath="$PROJECT_DIR$/dubbo.provider/dubbo.provider.iml" />
     </modules>
   </component>
